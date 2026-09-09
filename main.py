@@ -299,7 +299,6 @@ st.caption(
     f"조회 날짜: {target_date} (한국 시간 기준 어제) | "
     "출처: KOBIS 영화관입장권 통합전산망"
 )
-````python
 import streamlit as st
 import requests
 import pandas as pd
